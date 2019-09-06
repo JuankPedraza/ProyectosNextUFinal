@@ -1,0 +1,91 @@
+body{ 
+  background-image: url(img/fondo.jpg);
+} 
+
+div.secondary.callout.text-center img{
+  height: 100%;
+  width: 100%;
+}
+
+div.secondary.callout.text-center{
+  min-height: 140px;
+}
+
+#buscar{
+  width: 100px;
+}
+
+.icono-buscar{
+  background-color: red;
+  color: white;
+}
+
+.imagen1{
+  width: 100%;
+  height: 10%;
+}
+
+.button{
+  width: 100%;
+}
+
+div.callout{
+  background-color: rgba(240, 200, 200, 0.8);
+}
+
+legend{
+  color: red;
+  font-weight: bold;
+}
+
+fieldset{
+  margin-top: 20px;
+}
+
+.thumbnail{
+  width: 780px;
+}
+
+p{
+  text-align: justify;
+}
+
+label{
+  font-weight: bold;
+}
+
+#boton-comentario{
+  background-color: red;
+  width: 110px;
+}
+
+#label-boton{
+  text-align: right;
+}
+
+#hombre{
+  width: 100px;
+}
+
+.secondary.callout.text-left{
+  width: 777px;
+}
+
+.large-12.columns{
+  margin-left: 800px;
+}
+
+.large-5.medium-2.columns.show-for-medium.column2{
+  visibility: hidden;
+}
+
+h1,h5{
+  color: white;
+}
+
+
+  
+
+
+
+

@@ -1,0 +1,132 @@
+#cuerpo{ 
+  background-image: url(img/fondo.jpg);
+  width: 100%;
+  
+} 
+
+.s11.col.bloque-feed{
+  background-color: white;
+ 
+}
+
+h4{
+  color: white;
+}
+
+.btn{
+background-color: white;
+color: blue;
+}
+
+#imagen1, #imagen3, #imagen2, #imagen4, #imagen5, #imagen6{
+  width: 100%;
+}
+
+.columna-abajo{
+  background-color: white;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+#imagen7{
+  width: 100%;
+}
+
+#imagen8{
+  width: 20%;
+}
+
+#redes{
+  width: 50%;
+  padding: 5%;
+}
+
+p{
+  text-align: justify;
+}
+
+.col-prin{
+  margin: 0 0.2rem 0 0 ;
+}
+
+.columna2{
+  height: 480px;
+}
+
+.columna-autor{
+  height: 100%; 
+}
+
+.column-imagen{
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.row-principal{
+  margin: 0.9rem 0.9rem 0.9rem ;
+}
+
+button{
+  margin-left: 5px;
+}
+
+
+.barra-superior{
+  min-height: 4rem;
+  background-color: #87BBA2;
+}
+
+div[class*="bloque"]{
+  height: 16rem;
+}
+
+.columna-news{
+  padding: 0 0.75rem !important;
+  margin: 0.5rem 0 1rem 0;
+  
+}
+.contenedor-write-publicacion{
+  min-height: 7rem;
+}
+.contenedor-publicacion{
+  min-height: 17rem;
+}
+.logo{
+  width: 100%;
+  margin-top: 0.5rem;
+  float: left;
+}
+.contenedor-noticias{
+  margin-top: 1rem;
+  min-height: 50rem;
+  padding: 0.5rem;
+}
+.responsive-img{
+  border: 0.6rem solid #ff8f00;
+  border-radius: 5px;
+}
+.buscar-campo{
+  float: left;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  width: 70%;
+}
+.barra-superior .row{
+  margin-bottom: 0;
+}
+.contenedor-botones{
+  margin-top: 1rem;
+}
+#publicacion-texto{
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  resize: none;
+  border: 1px solid #ff8f00;
+  background-color: #ff8f00;
+  height: 5rem;
+  color: #fff;
+}
+@media (max-width: 600px) {
+  .columna-grupos{
+    padding: 0 !important;
+  }
+}

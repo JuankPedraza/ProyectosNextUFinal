@@ -1,0 +1,218 @@
+html{
+  background-color:gray;
+}
+
+.contenido{
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.blog-body {
+  background-color: gray;
+  background-attachment: scroll;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.navbar{
+  background-color: black;
+  border: none;
+  margin-bottom: 0%;
+  border-radius: 0px;
+}
+
+.comentario_icon{
+  margin-left: 0%;
+  margin-top: 2.7%;
+}
+
+.campo-buscar{
+  margin-top: 10%;
+}
+
+.lista{
+  position: relative;
+  margin-bottom: 36.4%;
+}
+
+#fieldset{
+  margin-bottom: 10%;
+}
+
+.imagen2{
+  margin-top: 3%;
+}
+
+.titulo{
+  margin-top: 3%;
+}
+
+.comentario{
+  margin-bottom: 9.3%;
+}
+
+#exampleFormControlTextarea2{
+  margin-top: 3%;
+}
+
+.list-group{
+  margin-top: 10%;
+}
+
+.glyphicon{
+  color: #FFFFFF;
+}
+
+.botones{
+  text-align: center;
+}
+
+
+.logo-img {
+  width: 200px;
+}
+
+.boton{
+ background-color:  white;
+ color:black;
+ margin-top: 1%;
+}
+
+.btn{
+  background-color: white;
+  color:black;
+ }
+
+.container-fluid {
+  margin-top: 73px;
+}
+
+
+
+.redes-sociales {
+  margin-top: 30px;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+
+.titulo {
+  color: #FFFFFF;
+  margin-right: 10px;
+}
+
+
+
+.movies-row {
+  background: rgba(0, 0, 0, 0.8);
+  min-height: 380px;;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.movies-row-last {
+  background: rgba(0, 0, 0, 0.8);
+  min-height: 425px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+.left-column {
+  border-right: 1px dashed #FFFFFF;
+}
+
+.row-centered {
+  text-align:center;
+}
+
+.services-text {
+  color: #FFFFFF;
+  margin-top: 13px;
+}
+
+
+
+@media (max-width: 380px) {
+ 
+  .blog-body {
+    background-color: gray;
+    background-attachment: scroll;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .redes{
+    text-align: center;
+  }
+
+  .imagen-contenido1{
+    width: 100%;
+  }
+ 
+  .imagen2{
+    width: 100%;  
+  }
+
+  .contenido-buscar{
+  visibility: hidden;
+  margin-bottom: 0%;
+}
+
+}
+
+
+@media (max-width: 970px) {
+ 
+  .blog-body {
+    background-color: gray;
+    background-attachment: scroll;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .redes{
+    text-align: center;
+  }
+
+  .imagen-contenido1{
+    width: 100%;
+  }
+ 
+  .imagen2{
+    width: 100%;  
+  }
+
+  .contenido-buscar{
+  visibility: hidden;
+  margin-bottom: 0%;
+}
+}
+
+
+@media (max-width: 1186px) {
+ 
+  .blog-body {
+    background-color: gray;
+    background-attachment: scroll;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .redes{
+    text-align: center;
+  }
+
+  .imagen-contenido1{
+    width: 100%;
+  }
+ 
+  .imagen2{
+    width: 100%;  
+  }
+
+  
+}
